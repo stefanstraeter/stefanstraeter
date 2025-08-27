@@ -11,18 +11,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stefanstraeter&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanstraeter&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
 ### 🛠️ Languages & Tools
 
 <p align="center">
