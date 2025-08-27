@@ -1,12 +1,36 @@
-<h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">On the path to Full-Stack Excellence | From curiosity to creation</h3>
+# Hi there 👋 I'm Stefan
 
-- 🌱 I’m currently learning **Frontend Development via Developer Akademie**
+```csharp
+/// <summary>
+/// On the path to Full-Stack Excellence 
+/// From curiosity to creation
+/// Open for collaborations and projects
+/// in Web Development and Design.
+/// Passionate about learning, building, and creating digital products.
+/// </summary>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/stefanstraeter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefanstraeter" height="30" width="40" /></a>
-</p>
+public class StefanStraeter {
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+    // INFORMATION
+    public string FullName      = "Stefan Sträter";
+    public string GitHub        = "stefanstraeter";
+    public string LinkedIn      = "stefan straeter";
+    public string Role          = "Full-Stack Software Developer – Training Program";
+    public string Location      = "Innsbruck, Austria";
+
+    // LANGUAGES
+    enum Languages { HTML5, CSS, JavaScript }
+
+    // TOOLS
+    string[] Tools = { "GitHub", "VS Code", "Photoshop", "Figma" };
+
+    // CURRENT FOCUS
+    public void CurrentWork() {
+        var Program = "Full-Stack Training Program";
+        var Areas   = "Frontend & Backend Development";
+        var Goal    = "Becoming a professional Full-Stack Developer";
+    }
+
+    // PROFILE
+    string[] Traits = { "Curious", "Creative", "Problem Solver", "Team Player" };
+}
