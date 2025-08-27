@@ -1,4 +1,16 @@
-# Hi there, I'm Stefan!
+<h1 align="center">
+  Hi there 👋 I'm Stefan 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h1>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/stefanstraeter">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=On+the+path+to+Full-Stack+Excellence;From+curiosity+to+creation;Passionate+about+Web+Development" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 
 ```csharp
 /// <summary>
@@ -13,8 +25,8 @@ public class StefanStraeter {
 
     // INFORMATION
     public string FullName      = "Stefan Sträter";
-    public string GitHub        = "stefanstraeter";
-    public string LinkedIn      = "stefan straeter";
+    public string GitHub        = "[stefanstraeter](https://github.com/stefanstraeter)";
+    public string LinkedIn      = "[stefan straeter](https://www.linkedin.com/in/stefan-straeter)";
     public string Role          = "Full-Stack Software Developer – Training Program";
     public string Location      = "Innsbruck, Austria";
 
