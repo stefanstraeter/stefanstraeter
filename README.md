@@ -1,6 +1,5 @@
 <h1 align="center">
-  Hi there 👋 I'm Stefan 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  Hi there I'm Stefan!
 </h1>
 
 <!-- Typing Animation -->
