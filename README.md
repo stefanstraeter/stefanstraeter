@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Stefan
+# Hi there
+# I'm Stefan
 
 ```csharp
 /// <summary>
