@@ -10,17 +10,6 @@
 
 ---
 
-## 💡 About Me
-- 💻 Full-Stack Software Developer – Training Program (Frontend & Backend Development)  
-- 🌍 Based in Innsbruck, Austria  
-- 🌱 On the path to Full-Stack Excellence | From curiosity to creation  
-- 🤝 Open for collaborations and projects in Web Development & Design  
-- 🔗 Connect with me:  
-  - [GitHub](https://github.com/stefanstraeter)  
-  - [LinkedIn](https://www.linkedin.com/in/stefan-straeter)  
-
----
-
 ```csharp
 /// <summary>
 /// On the path to Full-Stack Excellence 
