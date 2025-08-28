@@ -2,8 +2,22 @@
   Hi there I'm Stefan!
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=On+the+path+to+Full-Stack+Excellence;From+curiosity+to+creation;Passionate+about+Web+Development)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/stefanstraeter">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=On+the+path+to+Full-Stack+Excellence;From+curiosity+to+creation;Passionate+about+Web+Development" alt="Typing SVG" />
+  </a>
+</p>
 
+---
+
+## 💡 About Me
+- 💻 Full-Stack Software Developer – Training Program (Frontend & Backend Development)  
+- 🌍 Based in Innsbruck, Austria  
+- 🌱 On the path to Full-Stack Excellence | From curiosity to creation  
+- 🤝 Open for collaborations and projects in Web Development & Design  
+- 🔗 Connect with me:  
+  - [GitHub](https://github.com/stefanstraeter)  
+  - [LinkedIn](https://www.linkedin.com/in/stefan-straeter)  
 
 ---
 
