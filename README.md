@@ -32,7 +32,7 @@ public class StefanStraeter {
     enum Languages { HTML5, CSS, JavaScript }
 
     // TOOLS
-    string[] Tools = { "GitHub", "VS Code", "Photoshop", "Figma" };
+    string[] Tools = { "GitHub", "VS Code", "Bootstrap", "Firebase API", "Photoshop", "Figma" };
 
     // CURRENT FOCUS
     public void CurrentWork() {
