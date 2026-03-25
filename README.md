@@ -16,14 +16,14 @@
 /// Passionate about learning, building, and creating digital products.
 /// </summary>
 
-public class StefanStraeter 
+public class IDeveloper 
 {
     // CORE IDENTITY
     public string FullName = "Stefan Sträter";
     public string Role     = "Full-Stack Software Developer – Training Program";
     public string Location = "Innsbruck, Austria";
 
-    // TECH STACK (Als Arrays, da enums keine Sonderzeichen erlauben)
+    // TECH STACK
     public string[] Frontend = { "JavaScript (ES6+)", "HTML5", "CSS3", "Bootstrap", "Angular (Learning)" };
     public string[] Backend  = { "Firebase API", "Node.js (Learning)" };
 
