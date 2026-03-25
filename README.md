@@ -8,7 +8,7 @@
   </a>
 </p>
 
----
+```typescript
 /**
  * @description Transitioning from curiosity to full-stack creation.
  * Focused on scalable web architecture and clean UI/UX.
@@ -37,8 +37,8 @@ export class StefanStraeter implements IDeveloper, IContinuousLearner {
 
     // LET'S CONNECT
     public connect(): void {
-        const github: string   = "https://github.com/stefanstraeter";
-        const linkedIn: string = "https://www.linkedin.com/in/stefan-straeter";
+        const github: string   = "[https://github.com/stefanstraeter](https://github.com/stefanstraeter)";
+        const linkedIn: string = "[https://www.linkedin.com/in/stefan-straeter](https://www.linkedin.com/in/stefan-straeter)";
         
         window.open(github, '_blank');
         window.open(linkedIn, '_blank');
