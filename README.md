@@ -37,7 +37,6 @@ public class IDeveloper
     public void CurrentWork() 
     {
         var program = "Full-Stack Training Program";
-        var areas   = "Frontend & Backend Development";
         var goal    = "Becoming a professional Full-Stack Developer";
     }
 
