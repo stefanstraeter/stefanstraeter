@@ -9,35 +9,39 @@
 </p>
 
 ---
-
-```csharp
-/// <summary>
-/// On the path to Full-Stack Excellence 
-/// From curiosity to creation
-/// Open for collaborations and projects
-/// in Web Development and Design.
-/// Passionate about learning, building, and creating digital products.
-/// </summary>
-
-public class StefanStraeter : IDeveloper, IContinuousLearner {
-
+/**
+ * @description Transitioning from curiosity to full-stack creation.
+ * Focused on scalable web architecture and clean UI/UX.
+ */
+export class StefanStraeter implements IDeveloper, IContinuousLearner {
+    
     // CORE IDENTITY
-    public string FullName => "Stefan Sträter";
-    public string Role     => "Full-Stack Software Developer (In Training)";
-    public string Location => "Innsbruck, Austria";
+    public readonly fullName: string = "Stefan Sträter";
+    public readonly role: string     = "Full-Stack Software Developer (In Training)";
+    public readonly location: string = "Innsbruck, Austria";
 
     // TECH STACK
-    public string[] Frontend => new[] { "JavaScript (ES6+)", "HTML5", "CSS3", "Bootstrap", "Angular (Learning)" };
-    public string[] Backend  => new[] { "Firebase API", "Node.js (Learning)" }; 
-    public string[] Design   => new[] { "Figma", "Photoshop" };
+    public frontend: string[] = ["JavaScript (ES6+)", "HTML5", "CSS3", "Bootstrap", "Angular (Learning)"];
+    public backend: string[]  = ["Firebase API", "Node.js (Learning)"];
+    public design: string[]   = ["Figma", "Photoshop"];
 
     // MINDSET
-    public string[] Traits => new[] { "Curious", "Creative", "Problem Solver", "Team Player" };
+    public traits: string[] = ["Curious", "Creative", "Problem Solver", "Team Player"];
+
+    /**
+     * @returns The current mission objective.
+     */
+    public getCurrentFocus(): string {
+        return "Mastering the gap between Frontend and Backend to build seamless digital products.";
+    }
 
     // LET'S CONNECT
-    public void Connect() {
-        var GitHub = "https://github.com/stefanstraeter";
-        var LinkedIn = "https://www.linkedin.com/in/stefan-straeter";
+    public connect(): void {
+        const github: string   = "https://github.com/stefanstraeter";
+        const linkedIn: string = "https://www.linkedin.com/in/stefan-straeter";
+        
+        window.open(github, '_blank');
+        window.open(linkedIn, '_blank');
     }
 }
 
