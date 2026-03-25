@@ -8,41 +8,45 @@
   </a>
 </p>
 
-```typescript
-/**
- * @description Transitioning from curiosity to full-stack creation.
- * Focused on scalable web architecture and clean UI/UX.
- */
-export class StefanStraeter implements IDeveloper, IContinuousLearner {
-    
-    // CORE IDENTITY
-    public readonly fullName: string = "Stefan Sträter";
-    public readonly role: string     = "Full-Stack Software Developer (In Training)";
-    public readonly location: string = "Innsbruck, Austria";
+```csharp
+/// <summary>
+/// On the path to Full-Stack Excellence 
+/// From curiosity to creation.
+/// Open for collaborations and projects in Web Development and Design.
+/// Passionate about learning, building, and creating digital products.
+/// </summary>
 
-    // TECH STACK
-    public frontend: string[] = ["JavaScript (ES6+)", "HTML5", "CSS3", "Bootstrap", "Angular (Learning)"];
-    public backend: string[]  = ["Firebase API", "Node.js (Learning)"];
-    public design: string[]   = ["Figma", "Photoshop"];
+public class StefanStraeter 
+{
+    // CORE IDENTITY
+    public string FullName = "Stefan Sträter";
+    public string Role     = "Full-Stack Software Developer – Training Program";
+    public string Location = "Innsbruck, Austria";
+
+    // TECH STACK (Als Arrays, da enums keine Sonderzeichen erlauben)
+    public string[] Frontend = { "JavaScript (ES6+)", "HTML5", "CSS3", "Bootstrap", "Angular (Learning)" };
+    public string[] Backend  = { "Firebase API", "Node.js (Learning)" };
+
+    // TOOLS
+    public string[] Tools = { "GitHub", "VS Code", "Photoshop", "Figma" };
 
     // MINDSET
-    public traits: string[] = ["Curious", "Creative", "Problem Solver", "Team Player"];
+    public string[] Mindset = { "Curious", "Creative", "Problem Solver", "Team Player" };
 
-    /**
-     * @returns The current mission objective.
-     */
-    public getCurrentFocus(): string {
-        return "Mastering the gap between Frontend and Backend to build seamless digital products.";
+    // CURRENT FOCUS
+    public void CurrentWork() 
+    {
+        var program = "Full-Stack Training Program";
+        var areas   = "Frontend & Backend Development";
+        var goal    = "Becoming a professional Full-Stack Developer";
     }
 
     // LET'S CONNECT
-    public connect(): void {
-    const github: string   = "https://github.com/stefanstraeter";
-    const linkedIn: string = "https://www.linkedin.com/in/stefan-straeter";
-    
-    window.open(github, '_blank');
-    window.open(linkedIn, '_blank');
-}
+    public void Social() 
+    {
+        var linkedIn = "https://linkedin.com/in/stefan-straeter";
+        var github   = "https://github.com/stefanstraeter";
+    }
 }
 
 
