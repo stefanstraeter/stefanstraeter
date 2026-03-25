@@ -19,30 +19,26 @@
 /// Passionate about learning, building, and creating digital products.
 /// </summary>
 
-public class StefanStraeter {
+public class StefanStraeter : IDeveloper, IContinuousLearner {
 
-    // INFORMATION
-    public string FullName      = "Stefan Sträter";
-    public string GitHub        = "[stefanstraeter](https://github.com/stefanstraeter)";
-    public string LinkedIn      = "[stefan straeter](https://www.linkedin.com/in/stefan-straeter)";
-    public string Role          = "Full-Stack Software Developer – Training Program";
-    public string Location      = "Innsbruck, Austria";
+    // CORE IDENTITY
+    public string FullName => "Stefan Sträter";
+    public string Role     => "Full-Stack Software Developer (In Training)";
+    public string Location => "Innsbruck, Austria";
 
-    // LANGUAGES
-    enum Languages { HTML5, CSS, JavaScript }
+    // TECH STACK
+    public string[] Frontend => new[] { "JavaScript (ES6+)", "HTML5", "CSS3", "Bootstrap", "Angular (Learning)" };
+    public string[] Backend  => new[] { "Firebase API", "Node.js (Learning)" }; 
+    public string[] Design   => new[] { "Figma", "Photoshop" };
 
-    // TOOLS
-    string[] Tools = { "GitHub", "VS Code", "Bootstrap", "Firebase API", "Photoshop", "Figma" };
+    // MINDSET
+    public string[] Traits => new[] { "Curious", "Creative", "Problem Solver", "Team Player" };
 
-    // CURRENT FOCUS
-    public void CurrentWork() {
-        var Program = "Full-Stack Training Program";
-        var Areas   = "Frontend & Backend Development";
-        var Goal    = "Becoming a professional Full-Stack Developer";
+    // LET'S CONNECT
+    public void Connect() {
+        var GitHub = "https://github.com/stefanstraeter";
+        var LinkedIn = "https://www.linkedin.com/in/stefan-straeter";
     }
-
-    // PROFILE
-    string[] Traits = { "Curious", "Creative", "Problem Solver", "Team Player" };
 }
 
 
