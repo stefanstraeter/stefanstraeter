@@ -43,7 +43,7 @@ public class IDeveloper
     // LET'S CONNECT
     public void Social() 
     {
-        var linkedIn = "https://linkedin.com/in/stefan-straeter";
+        var linkedIn = "https://www.linkedin.com/in/stefanstraeter";
         var github   = "https://github.com/stefanstraeter";
     }
 }
