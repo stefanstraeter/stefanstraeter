@@ -28,7 +28,7 @@ public class IDeveloper
     public string[] Backend  = { "Firebase API", "Node.js (Learning)" };
 
     // TOOLS
-    public string[] Tools = { "GitHub", "VS Code", "Photoshop", "Figma" };
+    public string[] Tools = { "GitHub", "Git", "VS Code", "Photoshop", "Figma" };
 
     // MINDSET
     public string[] Mindset = { "Curious", "Creative", "Problem Solver", "Team Player" };
