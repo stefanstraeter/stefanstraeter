@@ -24,7 +24,7 @@ public class IDeveloper
     public string Location = "Innsbruck, Austria";
 
     // TECH STACK
-    public string[] Frontend = { "JavaScript (ES6+)", "HTML5", "CSS3", "Bootstrap", "Angular (Learning)" };
+    public string[] Frontend = { "JavaScript (ES6+)", "HTML5", "CSS3", "Bootstrap", "TypeScript", "Angular (Learning)" };
     public string[] Backend  = { "Firebase API", "Node.js (Learning)" };
 
     // TOOLS
