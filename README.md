@@ -8,44 +8,33 @@
   </a>
 </p>
 
-```csharp
-/// <summary>
-/// On the path to Full-Stack Excellence 
-/// From curiosity to creation.
-/// Open for collaborations and projects in Web Development and Design.
-/// Passionate about learning, building, and creating digital products.
-/// </summary>
+# Stefan Sträter
+### Full-Stack Software Developer (Training Program)
+**Innsbruck, Austria**
 
-public class IDeveloper 
-{
-    // CORE IDENTITY
-    public string FullName = "Stefan Sträter";
-    public string Role     = "Full-Stack Software Developer – Training Program";
-    public string Location = "Innsbruck, Austria";
+> On the path to Full-Stack Excellence. From curiosity to creation. 
+> Open for collaborations and projects in Web Development and Design.
 
-    // TECH STACK
-    public string[] Frontend = { "JavaScript (ES6+)", "HTML5", "CSS3", "Bootstrap", "TypeScript", "Angular (Learning)" };
-    public string[] Backend  = { "Firebase API", "Node.js (Learning)" };
+---
 
-    // TOOLS
-    public string[] Tools = { "GitHub", "Git", "VS Code", "Photoshop", "Figma" };
+## Technical Profile
 
-    // MINDSET
-    public string[] Mindset = { "Curious", "Creative", "Problem Solver", "Team Player" };
+| Focus | Technologies & Tools |
+| :--- | :--- |
+| **Frontend** | JavaScript (ES6+), HTML5, CSS3, Bootstrap, TypeScript, Angular (Learning) |
+| **Backend** | Firebase API, Node.js (Learning) |
+| **Tools & Design** | Git, GitHub, VS Code, Figma, Photoshop |
 
-    // CURRENT FOCUS
-    public void CurrentWork() 
-    {
-        var program = "Full-Stack Training Program";
-        var goal    = "Becoming a professional Full-Stack Developer";
-    }
+---
 
-    // LET'S CONNECT
-    public void Social() 
-    {
-        var linkedIn = "https://www.linkedin.com/in/stefanstraeter";
-        var github   = "https://github.com/stefanstraeter";
-    }
-}
+## Mindset & Focus
 
+* **Current Goal:** Becoming a professional Full-Stack Developer through a dedicated training program.
+* **Core Strengths:** Analytical problem solving, creative thinking, and a strong team-player mindset fueled by continuous curiosity.
 
+---
+
+## Connect with me
+
+* **LinkedIn:** [linkedin.com/in/stefanstraeter](https://www.linkedin.com/in/stefanstraeter)
+* **GitHub:** [github.com/stefanstraeter](https://github.com/stefanstraeter)
