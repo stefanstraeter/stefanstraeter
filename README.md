@@ -9,8 +9,6 @@
 </p>
 
 
-# Stefan Sträter
-
 Hi, I'm Stefan. I'm based in Innsbruck, Austria, and I am currently training to become a Full-Stack Software Developer. With a professional background in marketing, I bring a unique perspective to development—combining clean backend logic with user-centric frontend design and product growth.
 
 Always open to connecting, code reviews, or collaborating on interesting projects.
