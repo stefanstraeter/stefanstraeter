@@ -17,10 +17,10 @@ Always open to connecting, code reviews, or collaborating on interesting project
 
 ### TECH STACK
 
-**FRONTEND:** Angular (currently learning), TypeScript, JavaScript (ES6+), SASS/SCSS, HTML5, REST APIs, Bootstrap
-**BACKEND:** Firebase API, Node.js (currently learning)
-**DESIGN & MARKETING:** Figma, Adobe CC, UI/UX Design, Performance Marketing, Google Analytics, Google Ads
-**TOOLS:** Git, GitHub, VS Code
+* **FRONTEND:** Angular (currently learning), TypeScript, JavaScript (ES6+), SASS/SCSS, HTML5, REST APIs, Bootstrap
+* **BACKEND:** Firebase API, Node.js (currently learning)
+* **DESIGN & MARKETING:** Figma, Adobe CC, UI/UX Design, Performance Marketing, Google Analytics, Google Ads
+* **TOOLS:** Git, GitHub, VS Code
 
 ---
 
