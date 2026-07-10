@@ -15,16 +15,16 @@ Always open to connecting, code reviews, or collaborating on interesting project
 
 ---
 
-### Tech Stack
+### TECH STACK
 
-* **Frontend:** Angular (currently learning), TypeScript, JavaScript (ES6+), SASS/SCSS, HTML5, REST APIs, Bootstrap
-* **Backend:** Firebase API, Node.js (currently learning)
-* **Design & Marketing:** Figma, Adobe CC, UI/UX Design, Performance Marketing, Google Analytics, Google Ads
-* **Tools:** Git, GitHub, VS Code
+**FRONTEND:** Angular (currently learning), TypeScript, JavaScript (ES6+), SASS/SCSS, HTML5, REST APIs, Bootstrap
+**BACKEND:** Firebase API, Node.js (currently learning)
+**DESIGN & MARKETING:** Figma, Adobe CC, UI/UX Design, Performance Marketing, Google Analytics, Google Ads
+**TOOLS:** Git, GitHub, VS Code
 
 ---
 
-### Let's connect!
+### LET'S CONNECT!
 
 * **LinkedIn:** [linkedin.com/in/stefanstraeter](https://www.linkedin.com/in/stefanstraeter)
 * **GitHub:** [github.com/stefanstraeter](https://github.com/stefanstraeter)
